@@ -1,6 +1,6 @@
-# teamapp
+# StorageUI APP
 
-A new Flutter project.
+tried my hand on a new Flutter project.
 
 ## Getting Started
 
